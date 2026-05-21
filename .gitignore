@@ -1,0 +1,9 @@
+jobs/*
+make_jobs.py
+__pycache__/
+/saved_models/
+/data/
+logs_*.txt
+/wandb/
+/logs/
+/results/
